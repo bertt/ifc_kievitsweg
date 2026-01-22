@@ -5,3 +5,17 @@
 1] Ion
 
 https://bertt.github.io/ifc_kievitsweg/ion
+
+2] Py3dtiles
+
+command:
+
+```bash
+py3dtiles convert kievitsweg.ifc
+```
+
+Issue: something with crs
+
+Demo: https://bertt.github.io/ifc_kievitsweg/py3dtiles/
+
+
